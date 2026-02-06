@@ -2,7 +2,6 @@
 Created: 2/5/2026, 11:01:22 PM
 Last Updated: 2/5/2026, 11:05:45 PM
 ---
-__Source:__ Instructions chat of bjesuiter: https://t3.chat/share/9ptsc47alx
 
 ### User
 

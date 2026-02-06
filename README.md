@@ -7,6 +7,4 @@ This repository provides two Docker images based on linuxserver.io conventions t
 
 ---
 
-# Developer Infos 
-
-- Instructions chat of bjesuiter: https://t3.chat/share/9ptsc47alx
+# Developer Infos
